@@ -3,7 +3,7 @@ package com.luis.pong;
 import org.andengine.entity.scene.background.SpriteBackground;
 import org.andengine.entity.sprite.Sprite;
 import com.luis.pong.GestorEscenas.TipoEscena;
-
+//comentario
 public class Creditos extends BaseScene {
 	@Override
 	public void createScene() {
