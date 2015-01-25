@@ -5,7 +5,7 @@ import org.andengine.entity.sprite.Sprite;
 import com.luis.pong.GestorEscenas.TipoEscena;
 
 public class Creditos extends BaseScene {
-	//
+	
 	@Override
 	public void createScene() {
 		createBackground();
