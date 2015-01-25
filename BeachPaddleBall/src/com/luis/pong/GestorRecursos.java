@@ -249,7 +249,7 @@ public class GestorRecursos {
 		bola=BitmapTextureAtlasTextureRegionFactory.createFromAsset(juegoTextureAtlas, activity, "bola.png");
 		
 		juego2TextureAtlas = new BuildableBitmapTextureAtlas(activity.getTextureManager(),1024, 1024, TextureOptions.BILINEAR);
-		loose=BitmapTextureAtlasTextureRegionFactory.createFromAsset(juego2TextureAtlas, activity, "loose.png");
+		loose=BitmapTextureAtlasTextureRegionFactory.createFromAsset(juego2TextureAtlas, activity, "lose.png");
 		win=BitmapTextureAtlasTextureRegionFactory.createFromAsset(juego2TextureAtlas, activity, "win.png");
 		try 
 		{
